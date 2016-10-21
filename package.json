@@ -1,6 +1,6 @@
 {
   "name": "plop-react-webpack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plop generator for React webpack projects",
   "main": "plopfile.js",
   "scripts": {},

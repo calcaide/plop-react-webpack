@@ -1,0 +1,20 @@
+# editorconfig.org
+root = true
+
+# Javascript configuration
+[*.{js,html}]
+charset = utf-8
+indent_style = space
+indent_size = 4
+
+# Json configuration
+[*.json]
+charset = utf-8
+indent_style = space
+indent_size = 2
+
+# Markdown configuration
+[*.md]
+charset = utf-8
+indent_style = space
+indent_size = 4

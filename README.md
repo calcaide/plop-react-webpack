@@ -9,8 +9,6 @@ Then install [Plop][Plop] globally `$ npm install -g plop`.
 
 ## Usage
 
-Create a folder for your project: `$ mkdir my-project`.
-
 First, you should install the generator: `$ npm install plop-react-webpack`
 
 Create in the root of your project a `plopfile.js` with this content:

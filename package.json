@@ -1,0 +1,28 @@
+{
+  "name": "plop-react-webpack",
+  "version": "0.1.0",
+  "description": "Plop generator for React webpack projects",
+  "main": "plopfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calcaide/plop-react-webpack.git"
+  },
+  "keywords": [
+    "Plop",
+    "generator",
+    "React",
+    "Webpack",
+    "ES6",
+    "Babel",
+    "ESLint"
+  ],
+  "author": "Carlos Alcaide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calcaide/plop-react-webpack/issues"
+  },
+  "homepage": "https://github.com/calcaide/plop-react-webpack#readme"
+}

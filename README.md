@@ -16,7 +16,9 @@ Create in the root of your project a `plopfile.js` with this content:
 module.exports = require('plop-react-webpack');
 ```
 
-In the terminal, type: `plop` and enjoy it.
+In the terminal, type: `$ plop`.
+
+Before start to develop, remember to install all the dependencies: `$ npm install`.
 
 
 ## Provided generator

@@ -67,6 +67,13 @@ module.exports = function(plop){
                 }
             );
 
+            // Copy webpack.config.babel.js
+            actions.push({
+                type: 'add',
+                path: 'webpack.config.babel.js',
+                templateFile: 'node_modules/plop-react-webpack/templates/webpack.config.babel.js'
+            });
+
             return actions;
         }
     })

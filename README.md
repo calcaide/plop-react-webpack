@@ -12,7 +12,7 @@ Then install [Plop][Plop] globally `$ npm install -g plop`.
 First, you should install the generator: `$ npm install plop-react-webpack`
 
 Create in the root of your project a `plopfile.js` with this content:
-```javsacript
+```javascript
 module.exports = require('plop-react-webpack');
 ```
 
